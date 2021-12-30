@@ -25,7 +25,6 @@
     "dedent": "^0.7.0",
     "del": "^5.1.0",
     "file-drop-element": "^1.0.1",
-    "husky": "^7.0.2",
     "idb-keyval": "^3.2.0",
     "image-size": "^0.9.3",
     "linkstate": "^2.0.0",
